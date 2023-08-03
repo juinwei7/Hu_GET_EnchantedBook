@@ -1,0 +1,9 @@
+name: Hu_GET_EnchantedBook
+version: '${project.version}'
+main: org.main.weiwei.Hu_GET_EnchantedBook
+api-version: 1.19
+commands:
+  getenbook:
+    aliases:
+      - getenbook
+depend: [NBTAPI]

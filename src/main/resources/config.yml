@@ -1,0 +1,20 @@
+prefix: '&f(幻嵐)&r'
+# ##############################
+#          倍率                #
+#  釀造 magnification_kill     #
+# ##############################
+# magnification_block: 0.04
+# magnification_kill: 0.08
+# magnification_fish: 0.05
+Enabled: true
+magnification_block: 0.01
+magnification_kill: 0.01
+magnification_fish: 0.01
+
+def_drop: enbook01
+
+# #########################################
+message:
+  no_permissions: '&c你沒有權限使用開指令'
+  reload: '&f重新加載成功!'
+  help: 幫助
